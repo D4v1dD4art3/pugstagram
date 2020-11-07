@@ -33,8 +33,8 @@
         <img src="https://i.imgur.com/eYSWZLO.png" alt="logo">
       </div>
       <div class="Profile-info">
-        <h2>{nickname}</h2>
-        <span>{name}</span> 
+        <h2>🤖 D4v1d D4art3 🚀</h2>
+        <span>David Duarte</span> 
       </div>
     </div>
   </div>
