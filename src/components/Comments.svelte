@@ -61,9 +61,6 @@
     outline: none;
     cursor: pointer;
   }
-  label {
-    display: none;
-  }
 </style>
 <div class="Comments">
   <div class="Comments-content">

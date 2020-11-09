@@ -105,4 +105,9 @@ dist/
 
 # TernJS port file
 .tern-port
+
+#sapper
+src/node_modules
+__sapper__
+
 >>>>>>> fb462f4908c85f4b32f78b2884c3aa0b6b71cfca
